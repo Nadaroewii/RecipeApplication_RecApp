@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="text"><u>Registered Now</u></string>
+    <string name="button1">Sign In</string>
+    <string name="detail1">Dont Have Account? </string>
+    <string name="detail2">All Recipes </string>
+    <string name="detail3">Category Name </string>
+    <string name="detail4">Ingredients </string>
+    <string name="detail5">Instructions</string>
+    <string name="detail6">Reference </string>
+    <string name="detail7">Sign Up </string>
+    <string name="detail8"> Password </string>
+    <string name="detail9"> Name </string>
+    <string name="detail10"> Search for recipes </string>
+    <string name="judul">Rec-App</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Resep App</string>
+    <string name="text"><u>Daftar Sekarang</u></string>
+    <string name="button1">Masuk</string>
+    <string name="detail1">Belum Punya Akun ? </string>
+    <string name="detail2">Semua Resep </string>
+    <string name="detail3">Nama Kategori </string>
+    <string name="detail4">Bahan-bahan </string>
+    <string name="detail5">Instruksi </string>
+    <string name="detail6">Referensi </string>
+    <string name="detail7">Daftar </string>
+    <string name="detail8"> Kata Sandi </string>
+    <string name="detail9"> Nama </string>
+    <string name="detail10"> Cari resep disini </string>
+    <string name="judul">Rec-App</string>
+</resources>
