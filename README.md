@@ -8,4 +8,5 @@ The details of this apps:
 4. Use Dao from Room library for store the meal list from several categories
 
 The demo of Recipe Applications:
-https://user-images.githubusercontent.com/89477206/197957590-edb08445-8ffb-4666-903c-bfe9a3da5033.mp4
+
+![demo](https://user-images.githubusercontent.com/89477206/197958202-28fc6adf-b8db-4928-9a02-b09efd705ee9.gif)
