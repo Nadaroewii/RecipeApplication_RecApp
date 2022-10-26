@@ -9,4 +9,4 @@ The details of this apps:
 
 <b> Demo of The Rec-App : Recipe Applications </b>
 
-![demo](https://user-images.githubusercontent.com/89477206/197958202-28fc6adf-b8db-4928-9a02-b09efd705ee9.gif)
+![demo (1)](https://user-images.githubusercontent.com/89477206/197960386-404a8da9-b6a0-4b2a-b094-2d256cbe5584.gif)
